@@ -1,4 +1,11 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aiwenmo&show_icons=true&include_all_commits=true&hide_border=true" />
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on [Dinky](https://github.com/DataLinkDC/dinky)
+- 🌱 I’m currently learning [Apache Flink](http://github.com/apache/flink/)
+- 👯 I’m looking to collaborate on [Flink CDC](http://github.com/ververica/flink-cdc-connectors)
+- ⚡ Fun fact: Open source
 
 <!--
 **aiwenmo/aiwenmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
